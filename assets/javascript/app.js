@@ -1,7 +1,7 @@
 $(document).ready(function () {
 
-    //Starting Array
-    var topics = ["Football", "Basketball", "Soccer", "Baseball"]
+    //Starting the Array
+    var topics = ["Football", "Basketball", "Soccer", "Baseball", "Tennis",]
 
     //Function to generate buttons from array
     function loadButtons() {
